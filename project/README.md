@@ -1,10 +1,4 @@
-# Laravel 8 - Appointment Application
-
-## Screenshots
-
-![preview img](/preview.png)
-
-![preview img](/preview2.png)
+# Management Application
 
 ## Run Locally
 
